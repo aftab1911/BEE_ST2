@@ -4,7 +4,6 @@
 /node_modules
 /.pnp
 .pnp.js
-
 # testing
 /coverage
 
@@ -13,6 +12,9 @@
 
 # misc
 .DS_Store
+
+#local env files
+.env*.local
 
 
 npm-debug.log*
